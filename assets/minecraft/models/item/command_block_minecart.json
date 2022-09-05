@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/command_block_minecart"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/command_block_minecart/1"}
+	]
+}
